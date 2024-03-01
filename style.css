@@ -1,15 +1,15 @@
 :root{
-    --cor-de-fundo: #1E1E1E;
+    --cor-de-fundo: #868686;
 }
 :root{
-    --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+    --cor-de-fundo: #3b3b3b;
+    --verde: #603679cc;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
 }
 :root{
     --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+    --verde: #603679cc;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
@@ -26,7 +26,7 @@ body{
 
 :root {
   --cor-de-fundo: #161618;
-  --verde: #6FFF57;
+  --verde: #603679cc;
   --branco: #FFFFFF;
   --botao-ativo: #3A375E;
   --botao-inativo: rgba(58, 55, 94, 0.5);
